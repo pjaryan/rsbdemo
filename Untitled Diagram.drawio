@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T03:37:38.510Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="xvFuo74YsiN52gKuUgCw" version="15.4.1" type="github"><diagram id="ZlU1fwQFZrRvryqXfryt" name="Page-1">7ZZNj5swEIZ/DceNMB/LXgOb3VZqL+Ww6glZ2BhrDaaOWUh/fcdgIEBWaqv2UKkKijyP7ZlhPK8Tx0+q/lnhpvwsCRWO55Le8R8dz4sePPg24DICFE6EKU4sW0DKv1MLXUtbTuh5tVBLKTRv1jCXdU1zvWJYKdmtlxVSrKM2mNEdSHMs9vSFE12O9CF0F/6BclZOkZFrZyo8LbbgXGIiuyvknxw/UVLqcVT1CRWmeFNdxn1P78zOiSla65/ZECr8TafPfXrpCi/7GrzqLLizXt6waO0LH19SAImQLbF568tUjEbyWg8FDWN4IF7iOiHMJMY6eOEGbO1oDdDeMj7WYGtHa4C27tEmPtomeAV21sq9u4nvXiUIjx/LVgte02RuPRcgU5hwOJJECqmA1bKG6sWlrgRYCIZdyTVNG5ybqnYgG2CFrLVtfuRNti288QrN05hx1TOjswPuzsGBKdk2Q8iP0P43ZzMYZrk5zAwLbRxpJV/plJzj+fB5Mg0TF1yITdJvVGkOWjgKzox/LU04bC1Bi8EjvAmv2afBevRdm/2tEASfS0rsK9nOgxC0f7el0SwUuGGorKhWF1gybZi0ZW+Xu+Degm7RahhZVl7pNJgEjO39wGbni4RgYFX0C4rydor6QhmH4/kvpn9eTGo8yRsqQkF0io9/VUVziFlF6A+p6H6rIrRXUXBLRf5vqAjM5TdvmLv65+CffgA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-03T03:45:09.209Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="M24zRRingnA7ZQlGEbei" version="15.4.1" type="github">
+  <diagram id="ZlU1fwQFZrRvryqXfryt" name="Page-1">
+    <mxGraphModel dx="782" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5raqtSGxSywf2_Y4kt_4-1" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="-460" width="660" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="5raqtSGxSywf2_Y4kt_4-2" value="Region" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#147EBA;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="-410" width="600" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="XRT_B67RnEvFodVaxmi2-1" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-370" width="560" height="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
